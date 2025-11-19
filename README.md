@@ -4,7 +4,7 @@
 
 WeightTrack is a macOS application that transforms your MacBook's trackpad into an accurate weighing scale by leveraging the Force Touch pressure sensors built into modern MacBook trackpads.
 
-https://github.com/user-attachments/assets/6a9912d0-10bd-4fa6-897d-047c40e0a0e4
+
 
 
 To use it yourself:
